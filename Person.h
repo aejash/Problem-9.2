@@ -1,6 +1,3 @@
-//
-// Created by Ashley Jacobson on 7/10/25.
-//
 #include <iostream>
 #include <string>
 #ifndef PERSON_H
